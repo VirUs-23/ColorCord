@@ -36,7 +36,7 @@ A Code that allows you to get Rainbow Roles using a Discord Bot
 
 ---
 
-This Code is from [this tutorial](https://www.youtube.com). If you have any doubts regarding this, feel free to contact me through my [Discord Server](https://dsc.gg/phantom).
+This Code is from [this tutorial](https://www.youtube.com/watch?v=3O37GA75ICg). If you have any doubts regarding this, feel free to contact me through my [Discord Server](https://dsc.gg/phantom).
 
 </br>
 
