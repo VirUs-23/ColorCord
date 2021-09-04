@@ -1,0 +1,9 @@
+{
+	"servers": [
+		"SERVER_ID"
+	],
+	"roleName": "ROLE_NAME",
+	"colors": 12,
+	"speed": 60000,
+	"logging": true
+}
